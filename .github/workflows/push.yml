@@ -1,7 +1,4 @@
 name: push_action
 on:
   push:
-    paths: 'testproject'
-jobs:
-  my-job:
-    runs-on: ubuntu-latest
+    branches: -main
