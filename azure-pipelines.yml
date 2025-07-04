@@ -14,4 +14,4 @@ steps:
       workingDirectory: 'my-first-static-web-app-main'
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: Windows (Windows 10 Pro)
