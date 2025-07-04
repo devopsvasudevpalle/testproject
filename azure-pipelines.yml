@@ -13,5 +13,5 @@ steps:
       command: 'build'
       workingDirectory: 'my-first-static-web-app-main'
 
-pool:
-  vmImage: Windows (Windows 10 Pro)
+pool: default
+  # vmImage: Windows (Windows 10 Pro)
